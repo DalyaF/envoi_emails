@@ -1,0 +1,86 @@
+2025-04-16 15:54:06,626 - ERROR - Erreur lors du chargement du fichier CSV: 'utf-8' codec can't decode byte 0xe7 in position 55: invalid continuation byte
+2025-04-16 15:54:06,627 - ERROR - Aucun contact chargé
+2025-04-16 15:54:06,627 - INFO - Exécution terminée en 0:00:00.027902
+2025-04-16 15:54:33,705 - ERROR - Erreur lors du chargement du fichier CSV: 'utf-8' codec can't decode byte 0xe7 in position 55: invalid continuation byte
+2025-04-16 15:54:33,706 - ERROR - Aucun contact chargé
+2025-04-16 15:54:33,706 - INFO - Exécution terminée en 0:00:00.017353
+2025-04-16 15:56:50,269 - ERROR - Erreur lors du chargement du fichier CSV: 'utf-8' codec can't decode byte 0xe7 in position 55: invalid continuation byte
+2025-04-16 15:56:50,270 - ERROR - Aucun contact chargé
+2025-04-16 15:56:50,270 - INFO - Exécution terminée en 0:00:00.017250
+2025-04-16 16:00:07,594 - ERROR - Erreur lors du chargement du fichier CSV: 'utf-8' codec can't decode byte 0xe7 in position 55: invalid continuation byte
+2025-04-16 16:00:07,595 - ERROR - Aucun contact chargé
+2025-04-16 16:00:07,596 - INFO - Exécution terminée en 0:00:00.032222
+2025-04-16 16:00:41,743 - ERROR - Erreur lors du chargement du fichier CSV: 'utf-8' codec can't decode byte 0xe7 in position 55: invalid continuation byte
+2025-04-16 16:00:41,744 - ERROR - Aucun contact chargé
+2025-04-16 16:00:41,744 - INFO - Exécution terminée en 0:00:00.018875
+2025-04-16 16:03:49,885 - INFO - Chargement de 6 contacts depuis contacts.csv
+2025-04-16 16:03:49,888 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:03:49,888 - INFO - Début de l'envoi de 3 emails
+2025-04-16 16:03:49,888 - WARNING - Contact 1 sans adresse email, ignoré
+2025-04-16 16:03:49,889 - WARNING - Contact 2 sans adresse email, ignoré
+2025-04-16 16:03:49,889 - WARNING - Contact 3 sans adresse email, ignoré
+2025-04-16 16:03:49,889 - INFO - Envoi terminé: 0 emails envoyés, 3 échecs
+2025-04-16 16:03:49,890 - INFO - Exécution terminée en 0:00:00.034071
+2025-04-16 16:04:54,226 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:04:54,227 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:04:54,227 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:04:54,228 - WARNING - Contact 1 sans adresse email, ignoré
+2025-04-16 16:04:54,228 - INFO - Envoi terminé: 0 emails envoyés, 1 échecs
+2025-04-16 16:04:54,229 - INFO - Exécution terminée en 0:00:00.020982
+2025-04-16 16:08:43,932 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:08:43,933 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:08:43,933 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:08:43,934 - WARNING - Contact 1 sans adresse email, ignoré
+2025-04-16 16:08:43,934 - INFO - Envoi terminé: 0 emails envoyés, 1 échecs
+2025-04-16 16:08:43,934 - INFO - Exécution terminée en 0:00:00.023667
+2025-04-16 16:09:50,578 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:09:50,581 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:09:50,582 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:09:51,267 - ERROR - Erreur de connexion SMTP: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-39eaf43ce0asm17300845f8f.70 - gsmtp')
+2025-04-16 16:09:51,268 - INFO - Envoi terminé: 0 emails envoyés, 1 échecs
+2025-04-16 16:09:51,294 - INFO - Déconnexion SMTP réussie
+2025-04-16 16:09:51,295 - INFO - Exécution terminée en 0:00:00.740873
+2025-04-16 16:10:49,466 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:10:49,466 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:10:49,466 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:10:50,214 - ERROR - Erreur de connexion SMTP: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4405b58cc0csm22261695e9.32 - gsmtp')
+2025-04-16 16:10:50,215 - INFO - Envoi terminé: 0 emails envoyés, 1 échecs
+2025-04-16 16:10:50,239 - INFO - Déconnexion SMTP réussie
+2025-04-16 16:10:50,240 - INFO - Exécution terminée en 0:00:00.799625
+2025-04-16 16:12:05,449 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:12:05,452 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:12:05,452 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:12:06,126 - ERROR - Erreur de connexion SMTP: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-39eae96c123sm17789133f8f.36 - gsmtp')
+2025-04-16 16:12:06,128 - INFO - Envoi terminé: 0 emails envoyés, 1 échecs
+2025-04-16 16:12:06,154 - INFO - Déconnexion SMTP réussie
+2025-04-16 16:12:06,155 - INFO - Exécution terminée en 0:00:00.725575
+2025-04-16 16:40:10,881 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:40:10,883 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:40:10,885 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:40:11,624 - ERROR - Erreur de connexion SMTP: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-39ee6010449sm1373411f8f.9 - gsmtp')
+2025-04-16 16:40:11,626 - INFO - Envoi terminé: 0 emails envoyés, 1 échecs
+2025-04-16 16:40:11,651 - INFO - Déconnexion SMTP réussie
+2025-04-16 16:40:11,652 - INFO - Exécution terminée en 0:00:00.795737
+2025-04-16 16:43:05,131 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:43:05,133 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:43:05,134 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:43:05,787 - ERROR - Erreur de connexion SMTP: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4405b4d3064sm22855855e9.11 - gsmtp')
+2025-04-16 16:43:05,788 - INFO - Envoi terminé: 0 emails envoyés, 1 échecs
+2025-04-16 16:43:05,812 - INFO - Déconnexion SMTP réussie
+2025-04-16 16:43:05,813 - INFO - Exécution terminée en 0:00:00.708950
+2025-04-16 16:46:19,310 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:46:19,311 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:46:19,311 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:46:19,691 - INFO - Connexion SMTP établie avec succès
+2025-04-16 16:46:20,235 - INFO - Email envoyé à dalya.furaiji@laposte.net
+2025-04-16 16:46:20,236 - INFO - Envoi terminé: 1 emails envoyés, 0 échecs
+2025-04-16 16:46:20,261 - INFO - Déconnexion SMTP réussie
+2025-04-16 16:46:20,263 - INFO - Exécution terminée en 0:00:00.971572
+2025-04-16 16:47:14,885 - INFO - Chargement de 1 contacts depuis contacts.csv
+2025-04-16 16:47:14,886 - INFO - Mode test activé: envoi limité à 3 emails
+2025-04-16 16:47:14,887 - INFO - Début de l'envoi de 1 emails
+2025-04-16 16:47:15,265 - INFO - Connexion SMTP établie avec succès
+2025-04-16 16:47:15,838 - INFO - Email envoyé à furaiji.dalya@gmail.com
+2025-04-16 16:47:15,839 - INFO - Envoi terminé: 1 emails envoyés, 0 échecs
+2025-04-16 16:47:15,865 - INFO - Déconnexion SMTP réussie
+2025-04-16 16:47:15,866 - INFO - Exécution terminée en 0:00:01.005837
